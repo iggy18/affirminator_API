@@ -1,7 +1,7 @@
 const goodVibes = [
     "I'm doing great!",
     "I am worthy of success", 
-    "I am are a good person",
+    "I am a good person",
     "the poeple around me want to see me succeed",
     "I'll figure this all out",
     "Asking for help is a sign of self-respect and self-awareness",
