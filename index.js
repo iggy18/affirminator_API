@@ -1,15 +1,15 @@
 require('dotenv').config()
-const affirm = require('./routes/routes.js');
 
-const express = require('express');
+//beginNerdPoem();
+const expressYourself = require('express');
+const toYourSelf = process.env.PORT || 3000;
 
-const app = express();
+const youShould = expressYourself();
 
-app.use(express.json());
-app.use(affirm);
+const affirmations = require('./perpetual/selfLove.js');
 
-port = process.env.PORT || 3000;
+youShould.use(affirmations);
 
-app.listen(port, () => {
-    console.log(`::::Server is running on port ${port}::::`);
+youShould.listen(toYourSelf, () => {
+    console.log(`::::while speaking these truths::::`);
 });

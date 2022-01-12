@@ -1,9 +1,10 @@
-const theLove  = require('../affirmations/affirmations.js');
+const theLove  = require('../good/vibes.js');
 
-function today(){
+function goodVibes(){
     let youGet = Math.floor(Math.random() * theLove.length);
     
-    return theLove[youGet]
+    return theLove[youGet];
 }
 
-module.exports = today;
+//this
+module.exports = goodVibes;

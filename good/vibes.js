@@ -1,4 +1,4 @@
-const goodVibes = [
+const truth = [
     "I'm doing great!",
     "I am worthy of success", 
     "I am a good person",
@@ -20,7 +20,9 @@ const goodVibes = [
     "My life is not a race or competition",
     "My weirdness is wonderful", 
     "Sometimes the work is resting", 
-    "taking a break can be part of the solution", 
+    "Taking a break can be part of the solution",
+    "people like me",
+    "I deserve to be kind to myself",
     "There is growth in stillness", 
     "There is poetry in everything, and I am looking for it", 
     "Today is an opportunity to grow and learn",
@@ -33,14 +35,22 @@ const goodVibes = [
     "they chose me for this task because they know I am worthy",
     "I can learn anything I put my mind to", 
     "I can work hard to achieve my goals", 
-    "Asking for advice doesn’t make me weak",
+    "Asking for advice improves my capabilities",
     "I am not in competition with anyone but myself",
     "I can ask for support", 
     "I believe in myself", 
     "I’m fun to be around", 
-    ""
-
-
+    "I make a difference in the world by simply existing in it",
+    "I am not an imposter, I am supposed to be here",
+    "there are not things I can’t do, there are only things I can't do... yet",
+    "I am grateful to be where I am",
+    "I have everything I need to change my circumstances",
+    "I am capable",
+    "I am not afraid of failure",
+    "when I find out I am wrong, I am happy to have a new opportunity to learn",
+    "I am as happy on the journey to my goals, as I am when I reach them",
+    "my colleagues believe in me",
 ]
 
-module.exports = goodVibes;
+//this
+module.exports = truth;
