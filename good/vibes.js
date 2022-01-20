@@ -58,7 +58,7 @@ const truth = [
     "I don’t have to know everything; I just have to put in my best effort and be sincere. That is highly valuable",
     "I am capable of learning anything. Nothing is beyond my capabilities",
     "Suckin at something is the first step to being sorta good at something -Jake the dog",
-    "I was chosen for this task because ", 
+    "I was chosen for this task because they know I am capable of completing it", 
     "I choose to be proud of myself",
     "I recognize that making a small step towards a goal is progress", 
     "I choose to focus on what is necessary",
